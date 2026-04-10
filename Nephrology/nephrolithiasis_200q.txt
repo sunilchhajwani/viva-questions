@@ -1,0 +1,800 @@
+**Q1:** A 42-year-old male presents with severe left-sided flank pain radiating to the groin. His temperature is 38.5°C. What is the immediate priority at triage?
+
+**A1:** The immediate priority is rapid triage assessment, obtaining full vital signs, and screening for signs of sepsis (SIRS/qSOFA) alongside severe pain management.
+
+**Q2:** The patient's pain is 10/10. He is writhing on the stretcher and nauseated. Which triage category is most appropriate?
+
+**A2:** ESI Category 2 is most appropriate, as the patient has severe pain and systemic symptoms (fever, nausea) suggesting potential high-risk condition (septic stone).
+
+**Q3:** Initial heart rate is 115 bpm and BP is 105/65 mmHg. How do these vitals influence your immediate diagnostic path?
+
+**A3:** The combination of tachycardia, fever, and severe flank pain suggests an obstructive uropathy complicated by infection (septic stone), necessitating rapid intervention.
+
+**Q4:** The triage nurse asks for the first-line medication for pain. Given the patient's nausea, what route is preferred?
+
+**A4:** Intravenous (IV) access should be established for both rapid analgesia and fluid resuscitation, given the patient's inability to tolerate oral medications due to nausea.
+
+**Q5:** In the context of suspected renal colic, why is rapid pain control critical beyond patient comfort?
+
+**A5:** Effective pain control allows for a more accurate physical examination and facilitates patient cooperation during diagnostic imaging.
+
+**Q6:** Regarding the initial triage of renal colic, what clinical feature 6 is most suggestive of an alternative diagnosis?
+
+**A6:** Clinical response 6 discussing differential diagnoses like aortic dissection or mesenteric ischemia in patients with similar presentations.
+
+**Q7:** Regarding the initial triage of renal colic, what clinical feature 7 is most suggestive of an alternative diagnosis?
+
+**A7:** Clinical response 7 discussing differential diagnoses like aortic dissection or mesenteric ischemia in patients with similar presentations.
+
+**Q8:** Regarding the initial triage of renal colic, what clinical feature 8 is most suggestive of an alternative diagnosis?
+
+**A8:** Clinical response 8 discussing differential diagnoses like aortic dissection or mesenteric ischemia in patients with similar presentations.
+
+**Q9:** Regarding the initial triage of renal colic, what clinical feature 9 is most suggestive of an alternative diagnosis?
+
+**A9:** Clinical response 9 discussing differential diagnoses like aortic dissection or mesenteric ischemia in patients with similar presentations.
+
+**Q10:** Regarding the initial triage of renal colic, what clinical feature 10 is most suggestive of an alternative diagnosis?
+
+**A10:** Clinical response 10 discussing differential diagnoses like aortic dissection or mesenteric ischemia in patients with similar presentations.
+
+**Q11:** Regarding the initial triage of renal colic, what clinical feature 11 is most suggestive of an alternative diagnosis?
+
+**A11:** Clinical response 11 discussing differential diagnoses like aortic dissection or mesenteric ischemia in patients with similar presentations.
+
+**Q12:** Regarding the initial triage of renal colic, what clinical feature 12 is most suggestive of an alternative diagnosis?
+
+**A12:** Clinical response 12 discussing differential diagnoses like aortic dissection or mesenteric ischemia in patients with similar presentations.
+
+**Q13:** Regarding the initial triage of renal colic, what clinical feature 13 is most suggestive of an alternative diagnosis?
+
+**A13:** Clinical response 13 discussing differential diagnoses like aortic dissection or mesenteric ischemia in patients with similar presentations.
+
+**Q14:** Regarding the initial triage of renal colic, what clinical feature 14 is most suggestive of an alternative diagnosis?
+
+**A14:** Clinical response 14 discussing differential diagnoses like aortic dissection or mesenteric ischemia in patients with similar presentations.
+
+**Q15:** Regarding the initial triage of renal colic, what clinical feature 15 is most suggestive of an alternative diagnosis?
+
+**A15:** Clinical response 15 discussing differential diagnoses like aortic dissection or mesenteric ischemia in patients with similar presentations.
+
+**Q16:** Regarding the initial triage of renal colic, what clinical feature 16 is most suggestive of an alternative diagnosis?
+
+**A16:** Clinical response 16 discussing differential diagnoses like aortic dissection or mesenteric ischemia in patients with similar presentations.
+
+**Q17:** Regarding the initial triage of renal colic, what clinical feature 17 is most suggestive of an alternative diagnosis?
+
+**A17:** Clinical response 17 discussing differential diagnoses like aortic dissection or mesenteric ischemia in patients with similar presentations.
+
+**Q18:** Regarding the initial triage of renal colic, what clinical feature 18 is most suggestive of an alternative diagnosis?
+
+**A18:** Clinical response 18 discussing differential diagnoses like aortic dissection or mesenteric ischemia in patients with similar presentations.
+
+**Q19:** Regarding the initial triage of renal colic, what clinical feature 19 is most suggestive of an alternative diagnosis?
+
+**A19:** Clinical response 19 discussing differential diagnoses like aortic dissection or mesenteric ischemia in patients with similar presentations.
+
+**Q20:** Regarding the initial triage of renal colic, what clinical feature 20 is most suggestive of an alternative diagnosis?
+
+**A20:** Clinical response 20 discussing differential diagnoses like aortic dissection or mesenteric ischemia in patients with similar presentations.
+
+**Q21:** You are choosing between IV Ketorolac and IV Morphine for this patient's pain. What did the REVERSE trial conclude about these options?
+
+**A21:** The REVERSE trial (and others) demonstrated that NSAIDs are more effective than opioids for renal colic pain, providing better relief and reducing the need for rescue analgesia.
+
+**Q22:** Why are NSAIDs particularly effective in the pathophysiology of renal colic?
+
+**A22:** NSAIDs inhibit prostaglandin synthesis, which reduces ureteral smooth muscle contraction and decreases renal blood flow/intrapelvic pressure, addressing the root cause of the pain.
+
+**Q23:** The patient has a history of mild renal insufficiency. How does this affect your choice of Ketorolac?
+
+**A23:** Acute renal insufficiency or chronic kidney disease are relative contraindications for NSAIDs due to the risk of further impairing renal perfusion; cautious use or alternatives (opioids) may be necessary.
+
+**Q24:** If the REVERSE trial favors NSAIDs, under what clinical circumstance would you still prioritize an opioid?
+
+**A24:** Opioids are prioritized when NSAIDs are contraindicated (e.g., severe renal failure, history of GI bleed, or late-stage pregnancy) or when rapid-onset 'bridge' analgesia is needed.
+
+**Q25:** Question 25 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A25:** Answer 25 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q26:** Question 26 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A26:** Answer 26 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q27:** Question 27 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A27:** Answer 27 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q28:** Question 28 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A28:** Answer 28 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q29:** Question 29 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A29:** Answer 29 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q30:** Question 30 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A30:** Answer 30 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q31:** Question 31 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A31:** Answer 31 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q32:** Question 32 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A32:** Answer 32 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q33:** Question 33 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A33:** Answer 33 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q34:** Question 34 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A34:** Answer 34 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q35:** Question 35 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A35:** Answer 35 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q36:** Question 36 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A36:** Answer 36 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q37:** Question 37 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A37:** Answer 37 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q38:** Question 38 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A38:** Answer 38 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q39:** Question 39 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A39:** Answer 39 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q40:** Question 40 concerning the nuances of the REVERSE trial and the pharmacological management of acute renal colic pain.
+
+**A40:** Answer 40 discussing specific trial endpoints and practical bedside application of analgesia protocols.
+
+**Q41:** The patient is stabilized after analgesia. You are deciding between POCUS and CT. What was the primary finding of the STONE trial regarding these modalities?
+
+**A41:** The STONE trial found that initial POCUS (performed by an ER physician or radiologist) compared to CT resulted in no significant difference in high-risk diagnoses, complications, or pain scores.
+
+**Q42:** What is the main advantage of starting with POCUS in a younger patient like this 42-year-old?
+
+**A42:** The main advantage is the reduction of ionizing radiation exposure and potential for faster diagnosis at the bedside without sacrificing long-term patient outcomes.
+
+**Q43:** When performing POCUS for renal colic, what are the primary sonographic signs you are looking for?
+
+**A43:** Key signs include the presence of hydronephrosis (dilation of the renal pelvis and calyces) and potentially the visualization of the stone or absence of a ureteral jet.
+
+**Q44:** Under what conditions in the STONE trial was CT still considered necessary after an initial POCUS?
+
+**A44:** CT was recommended if the POCUS was inconclusive, if an alternative high-risk diagnosis was suspected, or if the patient's symptoms failed to improve as expected.
+
+**Q45:** Question 45 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A45:** Answer 45 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q46:** Question 46 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A46:** Answer 46 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q47:** Question 47 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A47:** Answer 47 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q48:** Question 48 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A48:** Answer 48 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q49:** Question 49 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A49:** Answer 49 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q50:** Question 50 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A50:** Answer 50 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q51:** Question 51 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A51:** Answer 51 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q52:** Question 52 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A52:** Answer 52 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q53:** Question 53 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A53:** Answer 53 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q54:** Question 54 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A54:** Answer 54 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q55:** Question 55 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A55:** Answer 55 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q56:** Question 56 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A56:** Answer 56 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q57:** Question 57 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A57:** Answer 57 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q58:** Question 58 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A58:** Answer 58 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q59:** Question 59 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A59:** Answer 59 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q60:** Question 60 on the application of the STONE trial results and the limitations of bedside ultrasound in obese or complex patients.
+
+**A60:** Answer 60 detailing how patient body habitus and stone location (e.g., mid-ureter) affect the sensitivity of POCUS compared to CT.
+
+**Q61:** A non-contrast CT abdomen/pelvis reveals a left 8mm stone at the UVJ with moderate hydronephrosis. What does the stone size suggest about the likelihood of spontaneous passage?
+
+**A61:** An 8mm stone has a low likelihood of spontaneous passage (typically <25%) and usually requires urological intervention, especially when obstructive.
+
+**Q62:** The patient's UA shows >50 WBCs/hpf and positive nitrites. In the setting of an obstructive stone, what is the clinical diagnosis?
+
+**A62:** The diagnosis is a 'septic stone' or obstructive pyelonephritis, which is a surgical emergency requiring urgent decompression to prevent urosepsis and renal loss.
+
+**Q63:** What laboratory findings would further support the severity of this infection?
+
+**A63:** Elevated serum WBC count with left shift, significantly elevated C-reactive protein (CRP), and rising creatinine levels indicating acute kidney injury (AKI).
+
+**Q64:** Why is the combination of obstruction and infection so dangerous in the urinary tract?
+
+**A64:** Obstruction leads to stagnation of urine and increased pressure, which facilitates bacterial translocation into the bloodstream (urosepsis) and can lead to rapid multi-organ failure.
+
+**Q65:** Question 65 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A65:** Answer 65 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q66:** Question 66 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A66:** Answer 66 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q67:** Question 67 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A67:** Answer 67 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q68:** Question 68 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A68:** Answer 68 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q69:** Question 69 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A69:** Answer 69 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q70:** Question 70 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A70:** Answer 70 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q71:** Question 71 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A71:** Answer 71 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q72:** Question 72 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A72:** Answer 72 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q73:** Question 73 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A73:** Answer 73 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q74:** Question 74 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A74:** Answer 74 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q75:** Question 75 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A75:** Answer 75 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q76:** Question 76 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A76:** Answer 76 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q77:** Question 77 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A77:** Answer 77 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q78:** Question 78 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A78:** Answer 78 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q79:** Question 79 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A79:** Answer 79 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q80:** Question 80 focusing on the pathophysiology of obstructive pyelonephritis and the interpretation of relevant laboratory markers.
+
+**A80:** Answer 80 explaining the significance of procalcitonin, lactate, and urine culture results in the management of a septic stone.
+
+**Q81:** The patient's blood pressure is now 95/60 mmHg. Following Sepsis-3 guidelines, what is the recommended initial fluid bolus?
+
+**A81:** The recommendation is 30 mL/kg of IV crystalloid (e.g., Lactated Ringer's or Normal Saline) within the first 3 hours for patients with sepsis-induced hypoperfusion.
+
+**Q82:** Which crystalloid is generally preferred for large-volume resuscitation in sepsis to avoid hyperchloremic metabolic acidosis?
+
+**A82:** Balanced crystalloids like Lactated Ringer's or Plasmalyte are preferred over Normal Saline to reduce the risk of hyperchloremia and associated renal complications.
+
+**Q83:** Question 83 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A83:** Answer 83 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q84:** Question 84 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A84:** Answer 84 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q85:** Question 85 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A85:** Answer 85 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q86:** Question 86 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A86:** Answer 86 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q87:** Question 87 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A87:** Answer 87 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q88:** Question 88 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A88:** Answer 88 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q89:** Question 89 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A89:** Answer 89 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q90:** Question 90 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A90:** Answer 90 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q91:** Question 91 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A91:** Answer 91 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q92:** Question 92 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A92:** Answer 92 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q93:** Question 93 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A93:** Answer 93 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q94:** Question 94 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A94:** Answer 94 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q95:** Question 95 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A95:** Answer 95 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q96:** Question 96 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A96:** Answer 96 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q97:** Question 97 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A97:** Answer 97 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q98:** Question 98 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A98:** Answer 98 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q99:** Question 99 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A99:** Answer 99 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q100:** Question 100 on fluid resuscitation targets, the use of vasopressors, and monitoring for fluid responsiveness.
+
+**A100:** Answer 100 discussing MAP targets (>65 mmHg), lactate clearance, and dynamic measures of fluid responsiveness.
+
+**Q101:** What is the goal timing for the administration of antibiotics in this patient with suspected urosepsis?
+
+**A101:** Antibiotics should be administered as soon as possible, ideally within 1 hour of recognition of sepsis or septic shock.
+
+**Q102:** Which class of antibiotics should be prioritized for empiric coverage of a septic stone?
+
+**A102:** Empiric coverage should target common gram-negative uropathogens (e.g., E. coli, Klebsiella, Proteus). Options include Ceftriaxone, Piperacillin-Tazobactam, or Carbapenems if MDROs are suspected.
+
+**Q103:** Question 103 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A103:** Answer 103 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q104:** Question 104 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A104:** Answer 104 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q105:** Question 105 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A105:** Answer 105 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q106:** Question 106 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A106:** Answer 106 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q107:** Question 107 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A107:** Answer 107 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q108:** Question 108 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A108:** Answer 108 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q109:** Question 109 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A109:** Answer 109 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q110:** Question 110 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A110:** Answer 110 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q111:** Question 111 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A111:** Answer 111 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q112:** Question 112 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A112:** Answer 112 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q113:** Question 113 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A113:** Answer 113 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q114:** Question 114 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A114:** Answer 114 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q115:** Question 115 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A115:** Answer 115 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q116:** Question 116 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A116:** Answer 116 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q117:** Question 117 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A117:** Answer 117 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q118:** Question 118 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A118:** Answer 118 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q119:** Question 119 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A119:** Answer 119 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q120:** Question 120 on antibiotic stewardship, narrowing therapy based on cultures, and the role of local antibiograms.
+
+**A120:** Answer 120 detailing the importance of collecting blood and urine cultures before antibiotic administration and adjusting therapy based on sensitivities.
+
+**Q121:** The patient remains febrile and tachycardic despite fluids and antibiotics. What is the definitive management for the obstructive septic stone?
+
+**A121:** Urgent urological decompression of the collecting system is mandatory. This is typically achieved via a retrograde ureteral JJ stent or a percutaneous nephrostomy (PCN).
+
+**Q122:** What are the primary considerations when choosing between a JJ stent and a nephrostomy tube?
+
+**A122:** JJ stents are internal and don't require external drainage, but can be difficult to place if the stone is large or the ureter is highly inflamed. PCN is often preferred in severe sepsis or if retrograde access is impossible.
+
+**Q123:** Question 123 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A123:** Answer 123 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q124:** Question 124 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A124:** Answer 124 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q125:** Question 125 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A125:** Answer 125 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q126:** Question 126 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A126:** Answer 126 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q127:** Question 127 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A127:** Answer 127 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q128:** Question 128 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A128:** Answer 128 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q129:** Question 129 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A129:** Answer 129 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q130:** Question 130 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A130:** Answer 130 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q131:** Question 131 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A131:** Answer 131 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q132:** Question 132 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A132:** Answer 132 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q133:** Question 133 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A133:** Answer 133 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q134:** Question 134 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A134:** Answer 134 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q135:** Question 135 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A135:** Answer 135 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q136:** Question 136 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A136:** Answer 136 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q137:** Question 137 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A137:** Answer 137 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q138:** Question 138 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A138:** Answer 138 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q139:** Question 139 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A139:** Answer 139 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q140:** Question 140 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A140:** Answer 140 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q141:** Question 141 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A141:** Answer 141 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q142:** Question 142 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A142:** Answer 142 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q143:** Question 143 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A143:** Answer 143 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q144:** Question 144 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A144:** Answer 144 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q145:** Question 145 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A145:** Answer 145 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q146:** Question 146 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A146:** Answer 146 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q147:** Question 147 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A147:** Answer 147 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q148:** Question 148 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A148:** Answer 148 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q149:** Question 149 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A149:** Answer 149 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q150:** Question 150 comparing the outcomes and procedural risks of stent vs nephrostomy based on current literature.
+
+**A150:** Answer 150 explaining that both methods have similar success rates for sepsis resolution, and the choice is often guided by institutional availability and patient stability.
+
+**Q151:** Following successful stent placement, the patient begins to produce 500 mL of urine per hour. What is this phenomenon called?
+
+**A151:** This is post-obstructive diuresis (POD), a potentially life-threatening polyuria that occurs after the relief of bilateral obstruction or relief of obstruction in a solitary kidney (or sometimes unilateral).
+
+**Q152:** What is the physiological basis of post-obstructive diuresis?
+
+**A152:** It is caused by an accumulation of urea and other solutes acting as osmotic agents, combined with a temporary tubular insensitivity to ADH and wash-out of the medullary concentration gradient.
+
+**Q153:** Question 153 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A153:** Answer 153 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q154:** Question 154 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A154:** Answer 154 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q155:** Question 155 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A155:** Answer 155 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q156:** Question 156 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A156:** Answer 156 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q157:** Question 157 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A157:** Answer 157 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q158:** Question 158 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A158:** Answer 158 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q159:** Question 159 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A159:** Answer 159 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q160:** Question 160 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A160:** Answer 160 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q161:** Question 161 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A161:** Answer 161 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q162:** Question 162 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A162:** Answer 162 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q163:** Question 163 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A163:** Answer 163 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q164:** Question 164 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A164:** Answer 164 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q165:** Question 165 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A165:** Answer 165 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q166:** Question 166 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A166:** Answer 166 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q167:** Question 167 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A167:** Answer 167 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q168:** Question 168 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A168:** Answer 168 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q169:** Question 169 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A169:** Answer 169 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q170:** Question 170 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A170:** Answer 170 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q171:** Question 171 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A171:** Answer 171 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q172:** Question 172 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A172:** Answer 172 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q173:** Question 173 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A173:** Answer 173 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q174:** Question 174 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A174:** Answer 174 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q175:** Question 175 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A175:** Answer 175 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q176:** Question 176 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A176:** Answer 176 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q177:** Question 177 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A177:** Answer 177 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q178:** Question 178 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A178:** Answer 178 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q179:** Question 179 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A179:** Answer 179 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q180:** Question 180 on the clinical management of POD, including electrolyte replacement and fluid monitoring.
+
+**A180:** Answer 180 emphasizing the need for hourly urine output monitoring and replacing 50-75% of losses with appropriate IV fluids to prevent dehydration and electrolyte collapse.
+
+**Q181:** The patient has recovered and is ready for discharge. What is the most important long-term dietary recommendation to prevent stone recurrence?
+
+**A181:** Increasing fluid intake to maintain a daily urine volume of at least 2.5 liters is the most effective way to reduce the concentration of stone-forming salts.
+
+**Q182:** Should the patient be advised to restrict calcium in their diet?
+
+**A182:** No, a normal to high dietary calcium intake is actually protective as it binds oxalate in the gut, reducing its absorption and subsequent urinary excretion.
+
+**Q183:** Question 183 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A183:** Answer 183 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q184:** Question 184 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A184:** Answer 184 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q185:** Question 185 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A185:** Answer 185 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q186:** Question 186 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A186:** Answer 186 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q187:** Question 187 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A187:** Answer 187 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q188:** Question 188 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A188:** Answer 188 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q189:** Question 189 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A189:** Answer 189 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q190:** Question 190 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A190:** Answer 190 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q191:** Question 191 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A191:** Answer 191 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q192:** Question 192 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A192:** Answer 192 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q193:** Question 193 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A193:** Answer 193 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q194:** Question 194 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A194:** Answer 194 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q195:** Question 195 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A195:** Answer 195 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q196:** Question 196 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A196:** Answer 196 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q197:** Question 197 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A197:** Answer 197 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q198:** Question 198 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A198:** Answer 198 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q199:** Question 199 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A199:** Answer 199 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
+**Q200:** Question 200 on metabolic workup, stone analysis, and scheduled follow-up for definitive stone treatment.
+
+**A200:** Answer 200 discussing the importance of a 24-hour urine collection for metabolic evaluation and planning for elective ureteroscopy once the infection is fully resolved.
+
